@@ -16,6 +16,7 @@ def calculate_score(a:int, b:int, c:int):
             print(sum2)
 calculate_score(2, 11, 8)
 
+
 def calculate_score(a:int, b:int, c:int):
     for i in range(1, 11):
         sum = a + b + c
